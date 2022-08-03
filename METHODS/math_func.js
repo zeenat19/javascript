@@ -1,0 +1,1 @@
+console.log(Math.random());      //It will give value between 0 to 1 
